@@ -1,0 +1,10 @@
+.idea/
+.git/
+assets/*
+!assets/.gitignore
+protected/runtime/*
+!protected/runtime/.gitignore
+protected/data/*.db
+
+Thumbs.db
+.DS_Store
